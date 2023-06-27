@@ -5,4 +5,4 @@
 - 🥇 Frameworks: **ASP.NET, Angular**
 - 🥇 Tools: **Vistual Studio, Visual Studio Code, Node.JS, Git, Jira, Microsoft Teams, Slack, Postgres, SQL Server Management Studio**
 
-- 📫 Connect with me on <a href="https://www.linkedin.com/in/patryk-witek-38272323b/" target="blank">LinkedIn</a>
+- 📫 Connect with me on <a href="https://www.linkedin.com/in/patryk-witek-38272323b/" target="_blank">LinkedIn</a>
