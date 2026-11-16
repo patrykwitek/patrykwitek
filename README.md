@@ -21,7 +21,7 @@ Azure, AWS, Docker, Kubernetes, CI/CD
 **Development Tools**\
 Git, GitHub, GitLab, Visual Studio, Visual Studio Code, Jira, pgAdmin
 
-**Graphics & Other**\
+**Other**\
 WebGL, Three.js, Machine Learning
 
 📫 Connect with me on <a href="https://www.linkedin.com/in/patryk-witek-38272323b/" target="_blank">LinkedIn</a>
